@@ -7,7 +7,7 @@ Created by: Anthony Cheng
 
 Here's a walkthrough of the Tic Tac Toe 
 
-<img src='https://media.giphy.com/media/dJixY1wsmbB2hyixn8/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://media.giphy.com/media/SJlfn3xyjhpcYzwU5x/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
